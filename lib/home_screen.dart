@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
     }
     else  return "${time.hour}:${time.minute}:${time.second}";
   }*/
-  
+
   @override
   Widget build(BuildContext context) {
 
